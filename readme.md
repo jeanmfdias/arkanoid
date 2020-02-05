@@ -8,6 +8,10 @@ or
 
 double click on `index.html` file.
 
+## How to play
+
+Use left and right arrows for control the bar.
+
 ## Next steps
 
 - [ ] Do blocs
