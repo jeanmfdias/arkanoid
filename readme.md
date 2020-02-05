@@ -10,7 +10,7 @@ double click on `index.html` file.
 
 ## Next steps
 
-[] Do blocs
-[] Do collision with blocs
-[] Do point system
-[] Do life system
+- [ ] Do blocs
+- [ ] Do collision with blocs
+- [ ] Do point system
+- [ ] Do life system
